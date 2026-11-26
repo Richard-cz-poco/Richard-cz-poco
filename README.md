@@ -13,3 +13,4 @@ Zajímám se o programování a technologie.
 
 
 ### Moje certifikáty 
+HackerRank – Python (Basic) https://www.hackerrank.com/certificates/7925a0138f67 

@@ -12,4 +12,4 @@ Zajímám se o programování a technologie.
 *Zatím sem připravuji svoje projekty, brzy tu přibydou!*
 
 
-Moje certifikáty 
+### Moje certifikáty 

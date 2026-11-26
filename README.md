@@ -10,3 +10,6 @@ Zajímám se o programování a technologie.
 ---
 ### 🚀 Moje projekty
 *Zatím sem připravuji svoje projekty, brzy tu přibydou!*
+
+
+Moje certifikáty 
